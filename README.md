@@ -28,4 +28,4 @@ Start the server
 ⭐⭐⭐⭐⭐
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=html,sass,js,nodejs,npm,webpack)](https://github.com/takasicode/bookshelf-api)
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,npm)](https://github.com/takasicode/bookshelf-api)
